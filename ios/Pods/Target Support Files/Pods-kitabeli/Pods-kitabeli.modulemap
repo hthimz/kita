@@ -1,0 +1,6 @@
+module Pods_kitabeli {
+  umbrella header "Pods-kitabeli-umbrella.h"
+
+  export *
+  module * { export * }
+}
